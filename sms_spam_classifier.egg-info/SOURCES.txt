@@ -1,0 +1,6 @@
+README.md
+setup.py
+sms_spam_classifier.egg-info/PKG-INFO
+sms_spam_classifier.egg-info/SOURCES.txt
+sms_spam_classifier.egg-info/dependency_links.txt
+sms_spam_classifier.egg-info/top_level.txt
